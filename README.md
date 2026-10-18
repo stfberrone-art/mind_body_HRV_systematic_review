@@ -1,6 +1,4 @@
 # mind_body_HRV_systematic_review
-This repository contains the data from a systematic review and meta-analysis
-
 This repository contains the data from a systematic review and meta-analysis. It includes the data extracted from the eligible studies, which can be used to reproduce the primary analyses, as well as the complete search strategy.
 
 Overview
