@@ -18,6 +18,8 @@ Contents
 
 "PICOS table": eligibility criteria.
 
+"PRISMA_2020_checklist": the completed PRISMA checklist with references to the manuscript sections
+
 Licence
 These materials are distributed under the licence specified in the LICENSE file.
 
